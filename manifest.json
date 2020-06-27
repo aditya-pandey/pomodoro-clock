@@ -3,7 +3,7 @@
   "name": "FCC POMODORO CLOCK",
   "icons": [
     {
-      "src": "pomodoro.png",
+      "src": "https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/hourglass-64.png",
       "sizes": "64x64",
       "type": "image/x-icon"
     }
